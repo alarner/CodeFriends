@@ -16,11 +16,11 @@ Before we can get started on our first day of class, we want to make sure you ar
 
 ## For Mac Users Only
 
-[Follow these Mac OS X specific instructions]()
+[Follow these Mac OS X specific instructions](./mac.md)
 
 ## For Windows Users Only
 
-[Follow these Widows 10 specific instructions]()
+[Follow these Widows 10 specific instructions](./windows.md)
 
 ### git settings
 
