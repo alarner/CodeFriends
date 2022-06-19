@@ -27,6 +27,33 @@
 
 ### git
 
-@@@@@@@@@@@@ todo: instructions for how to install git on windows @@@@@@@@@@@@
+Git comes already installed with most of the Windows Subsystem for Linux distributions, however, you may want to update to the latest version.
 
-Then run in the terminal: `git config --global credential.helper ????????`
+Confirm that you have git. 
+
+Type: `git --version` into the command line. 
+
+In response you should see “git version” followed by a number. As of 6/18/22 the latest version of git is 2.36.1. 
+
+If you get an error you will have to download git with the following command: 
+
+`sudo apt-get install git`
+
+If git is not the latest version, update git. As follows: 
+
+#### Add git-core PPA
+Ubuntu's default package repository often doesn't package a new version of Git for users.
+
+To fix this, you'll need to add a PPA (Personal Package Archive), maintained by the Git team for Ubuntu users. Begin by adding the PPA:
+
+`sudo add-apt-repository ppa:git-core/ppa`
+
+Once you've added the git-core PPA, you can update your repository cache, and install Git from the new source:
+
+```
+sudo apt-get update
+sudo apt-get install git
+```
+
+
+<!-- Then run in the terminal: `git config --global credential.helper ????????` -->

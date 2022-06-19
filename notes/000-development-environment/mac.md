@@ -2,6 +2,8 @@
 
 ### Homebrew
 
+> Homebrew will allow you to use the “brew” command in your terminal (Iterm 2 in your case). The brew command allows you to download other pacakges and applications that you will need
+
 Normally you **NEVER** want to run random commands that you get from the internet in your terminal without understanding what they are and exactly what they do. The terminal could give anyone full access to your entire computer. In this case these commands are coming from a trusted source (me) so it's okay.
 
 Run this command in your terminal to install [Homebrew](https://brew.sh/).
