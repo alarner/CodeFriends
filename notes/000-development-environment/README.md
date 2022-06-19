@@ -80,7 +80,7 @@ sed -i '.zshrc_original' 's/robbyrussell/dbla/g' ~/.zshrc
 ```
 source ~/.zshrc
 ```
-### For Mac OS X Users Only
+### For PC Users Only
 ```
 sed -i 's/robbyrussell/dbla/g' ~/.zshrc
 ```
