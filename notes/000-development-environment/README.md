@@ -9,6 +9,7 @@ Before we can get started on our first day of class, we want to make sure you ar
 ## Download and Install
 * [Chrome](https://www.google.com/chrome/) - Chrome is the web browser used by most web developers because of the good developer tooling that it provides for free.
 * [Discord](https://discord.com/download) - Discord is a chat tool that will allow you to communicate with other students, intructor and TA.
+    * Once you've downloaded discord [click on this link](https://discord.gg/p37P2Xrj) to join the discord server.
 * [iTerm2](https://www.iterm2.com/downloads.html) (for OS X) or [Hyper](https://hyper.is) (for Windows 10) - These are terminal applications that allow you to access a text terminal, aka command-line interface (CLI). The command line allows you to navigate your computer and to give it instructions. Our first class will be devoted to learning more about the command line.
 * [VS Code](https://code.visualstudio.com/Download) - VS Code (Visual Studio Code) is a code editor. It makes writing code easier and helps you to catch potential errors in your code early.
 
