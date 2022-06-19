@@ -12,6 +12,7 @@ Before we can get started on our first day of class, we want to make sure you ar
     * Once you've downloaded discord [click on this link](https://discord.gg/p37P2Xrj) to join the discord server.
 * [iTerm2](https://www.iterm2.com/downloads.html) (for OS X) or [Hyper](https://hyper.is) (for Windows 10) - These are terminal applications that allow you to access a text terminal, aka command-line interface (CLI). The command line allows you to navigate your computer and to give it instructions. Our first class will be devoted to learning more about the command line.
 * [VS Code](https://code.visualstudio.com/Download) - VS Code (Visual Studio Code) is a code editor. It makes writing code easier and helps you to catch potential errors in your code early.
+    * When prompted to Select Additional Tasks during installation, be sure to check the Add to PATH option. 
 
 ## Register an account
 * Discord (you should have received an invite)
@@ -27,7 +28,7 @@ Before we can get started on our first day of class, we want to make sure you ar
 
 ## Install code command
 
-Go to visual studio code and `cmd+shift+p` to open up the command palette and then you can search for "shell" - look for: install "code" command in path.
+For Mac Users: go to visual studio code and `cmd+shift+p` to open up the command palette, essentially a search bar, and then you can search for "shell" - look for: install "code" command in path.
 
 ### git settings
 
