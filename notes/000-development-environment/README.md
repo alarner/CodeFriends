@@ -24,6 +24,10 @@ Before we can get started on our first day of class, we want to make sure you ar
 
 [Follow these Widows 10 specific instructions](./windows.md)
 
+## Install code command
+
+Go to visual studio code and `cmd+shift+p` to open up the command palette and then you can search for "shell" - look for: install "code" command in path.
+
 ### git settings
 
 Run in the terminal (replace with your name and email address):
@@ -44,6 +48,18 @@ Run in the terminal: `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.3
 
 Run in the terminal: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
+#### For Windows Users Only
+
+To get zsh to run each time you open a new hyperterm window you need to follow a few additional steps:
+
+1. Run this command in hyperterm `chsh -s $(which zsh)`
+2. Press `ctrl ,` in hyperterm and edit the lines that start with shell and shellArgs to look like this:
+
+```
+shell: 'C:\\Windows\\System32\\wsl.exe',
+shellArgs: [],
+```
+
 ## Customize your shell
 
 In the terminal run the following commands one by one:
@@ -54,8 +70,17 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 ```
 curl https://gist.githubusercontent.com/alarner/cf808bc1eccaae7198c6/raw/dbla.zsh-theme > ~/.oh-my-zsh/themes/dbla.zsh-theme
 ```
+
+### For Mac OS X Users Only
 ```
 sed -i '.zshrc_original' 's/robbyrussell/dbla/g' ~/.zshrc
+```
+```
+source ~/.zshrc
+```
+### For Mac OS X Users Only
+```
+sed -i 's/robbyrussell/dbla/g' ~/.zshrc
 ```
 ```
 source ~/.zshrc
