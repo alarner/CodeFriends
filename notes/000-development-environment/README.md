@@ -20,6 +20,8 @@ Before we can get started on our first day of class, we want to make sure you ar
 
 ## For Mac Users Only
 
+Important note: when a command in Iterm2 or Hyper is successful sometimes nothing will happen. Typically if something goes wrong you will get some type of error. Also, when typing a password, it often appears as if you are not typing. Simply put in the password and press enter. 
+
 [Follow these Mac OS X specific instructions](./mac.md)
 
 ## For Windows Users Only
