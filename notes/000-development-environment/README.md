@@ -26,13 +26,13 @@ Before we can get started on our first day of class, we want to make sure you ar
 
 [Follow these Widows 10 specific instructions](./windows.md)
 
-## Install code command
+## Install code command (For Mac Users Only)
 
-For Mac Users: go to visual studio code and `cmd+shift+p` to open up the command palette, essentially a search bar, and then you can search for "shell" - look for: install "code" command in path.
+Go to visual studio code and `cmd+shift+p` to open up the command palette, essentially a search bar, and then you can search for "shell" - look for: install "code" command in path.
 
-### git settings
+### git settings (it's always for both Mac and PC unless it says its only for one)
 
-Run in the terminal (replace with your name and email address):
+Run in the terminal one line at a time(replace with your name and email address):
 
 ```
 git config --global user.name "Your Name"
@@ -42,25 +42,22 @@ git config --global pull.ff only
 git config --global core.editor "code --wait"
 ```
 
-## Install nodejs
+## Install nodejs 
 
 Run in the terminal: `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
 
 ### Install 'oh my zsh'
 
-Run in the terminal: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+For Mac, run in the terminal: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+
+For PC, run in the terminal:
+`$ sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"`
 
 #### For Windows Users Only
 
 To get zsh to run each time you open a new hyperterm window you need to follow a few additional steps:
 
-1. Run this command in hyperterm `chsh -s $(which zsh)`
-2. Press `ctrl ,` in hyperterm and edit the lines that start with shell and shellArgs to look like this:
-
-```
-shell: 'C:\\Windows\\System32\\wsl.exe',
-shellArgs: [],
-```
+Run this command in hyperterm `chsh -s $(which zsh)`
 
 ## Customize your shell
 
@@ -73,14 +70,16 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 curl https://gist.githubusercontent.com/alarner/cf808bc1eccaae7198c6/raw/dbla.zsh-theme > ~/.oh-my-zsh/themes/dbla.zsh-theme
 ```
 
-### For Mac OS X Users Only
+### For Mac OSX Users Only
 ```
 sed -i '.zshrc_original' 's/robbyrussell/dbla/g' ~/.zshrc
 ```
 ```
 source ~/.zshrc
 ```
+
 ### For PC Users Only
+
 ```
 sed -i 's/robbyrussell/dbla/g' ~/.zshrc
 ```

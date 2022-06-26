@@ -21,9 +21,10 @@
         // if you're using powershell, make sure to remove the `--login` below
         shell: '',
     ```
-11. Replace the last line with `shell: 'C:\\Windows\\System32\\bash.exe'`
-12. Save and close the file. Close Hyper term and re-open.
-13. Type `ls`. You should not see an error.
+11. Replace the last line with `shell: 'C:\\Windows\\System32\\wsl.exe'`
+12. Replace the line that start with shellArgs to look like this:`shellArgs: [],`
+13. Save and close the file. Close Hyper term and re-open.
+14. Type `ls`. You should not see an error.
 
 ### git
 
