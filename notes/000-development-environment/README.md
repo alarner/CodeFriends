@@ -12,15 +12,13 @@ Before we can get started on our first day of class, we want to make sure you ar
     * Once you've downloaded discord [click on this link](https://discord.gg/p37P2Xrj) to join the discord server.
 * [iTerm2](https://www.iterm2.com/downloads.html) (for OS X) or [Hyper](https://hyper.is) (for Windows 10) - These are terminal applications that allow you to access a text terminal, aka command-line interface (CLI). The command line allows you to navigate your computer and to give it instructions. Our first class will be devoted to learning more about the command line.
 * [VS Code](https://code.visualstudio.com/Download) - VS Code (Visual Studio Code) is a code editor. It makes writing code easier and helps you to catch potential errors in your code early.
-    * When prompted to Select Additional Tasks during installation, be sure to check the Add to PATH option. 
+    * PC only - When prompted to Select Additional Tasks during installation, be sure to check the Add to PATH option. 
 
 ## Register an account
 * Discord (you should have received an invite)
 * [GitHub](https://github.com/join)
 
 ## For Mac Users Only
-
-Important note: when a command in Iterm2 or Hyper is successful sometimes nothing will happen. Typically if something goes wrong you will get some type of error. Also, when typing a password, it often appears as if you are not typing. Simply put in the password and press enter. 
 
 [Follow these Mac OS X specific instructions](./mac.md)
 
@@ -32,7 +30,7 @@ Important note: when a command in Iterm2 or Hyper is successful sometimes nothin
 
 Go to visual studio code and `cmd+shift+p` to open up the command palette, essentially a search bar, and then you can search for "shell" - look for: install "code" command in path.
 
-### git settings (it's always for both Mac and PC unless it says its only for one)
+### git settings (it's always for both Mac and PC unless it says it's only for one)
 
 Run in the terminal one line at a time(replace with your name and email address):
 
@@ -66,7 +64,10 @@ Run this command in hyperterm `chsh -s $(which zsh)`
 In the terminal run the following commands one by one:
 
 ```
+For Mac: 
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+For PC:
+sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 ```
 curl https://gist.githubusercontent.com/alarner/cf808bc1eccaae7198c6/raw/dbla.zsh-theme > ~/.oh-my-zsh/themes/dbla.zsh-theme

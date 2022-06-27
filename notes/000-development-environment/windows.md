@@ -10,7 +10,7 @@
     ![Windows Subsystem for Linux option screen shot](./images/enable-windows-subsystem-linux-windows-10.webp)
 6. Click the OK button.
 7. Click the Restart now button.
-8. After your computer restarts, install [Ubuntu from the Microsoft Store](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?irgwc=1&OCID=AID2000142_aff_7593_159229&tduid=%28ir__61iffalgm0kftxpwxkqdydtlre2xneyigakslxxg00%29%287593%29%28159229%29%28%29%28UUwpUdUnU72700YYwYg%29&irclickid=_61iffalgm0kftxpwxkqdydtlre2xneyigakslxxg00&activetab=pivot:overviewtab). **Be sure to write down the username and password that you choose when going through this installation process.**
+8. After your computer restarts, install [Ubuntu from the Microsoft Store](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?irgwc=1&OCID=AID2000142_aff_7593_159229&tduid=%28ir__61iffalgm0kftxpwxkqdydtlre2xneyigakslxxg00%29%287593%29%28159229%29%28%29%28UUwpUdUnU72700YYwYg%29&irclickid=_61iffalgm0kftxpwxkqdydtlre2xneyigakslxxg00&activetab=pivot:overviewtab). **Be sure to write down the username and password that you choose when going through this installation process (when typing your password, it will appear as if you are not typing. Simply put in the password and press enter.)**
 9. Open Hyper Term that you downloaded above.
 10. Press `ctrl ,` and find the following lines:
     ```
