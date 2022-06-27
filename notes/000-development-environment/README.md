@@ -15,7 +15,7 @@ Before we can get started on our first day of class, we want to make sure you ar
     * PC only - When prompted to Select Additional Tasks during installation, be sure to check the Add to PATH option. 
 
 ## Register an account
-* Discord (you should have received an invite)
+* Discord (you should have received an invite. If you need an invite to the server contact Joshua)
 * [GitHub](https://github.com/join)
 
 ## For Mac Users Only
@@ -48,14 +48,14 @@ Run in the terminal: `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.3
 
 ### Install 'oh my zsh'
 
-For Mac, run in the terminal: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+For PC, you have to first install zsh. Run in the terminal:
+`sudo apt install zsh` 
 
-For PC, run in the terminal:
-`$ sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"`
+For both, run in the terminal: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
 #### For Windows Users Only
 
-To get zsh to run each time you open a new hyperterm window you need to follow a few additional steps:
+To get zsh to run each time you open a new hyperterm window you need to follow an additional step:
 
 Run this command in hyperterm `chsh -s $(which zsh)`
 
@@ -64,10 +64,8 @@ Run this command in hyperterm `chsh -s $(which zsh)`
 In the terminal run the following commands one by one:
 
 ```
-For Mac: 
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-For PC:
-sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
 ```
 ```
 curl https://gist.githubusercontent.com/alarner/cf808bc1eccaae7198c6/raw/dbla.zsh-theme > ~/.oh-my-zsh/themes/dbla.zsh-theme
