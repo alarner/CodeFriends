@@ -22,7 +22,7 @@
         shell: '',
     ```
 11. Replace the last line with `shell: 'C:\\Windows\\System32\\wsl.exe'`
-12. Replace the line that start with shellArgs to look like this:`shellArgs: [],`
+12. Replace the line that start with shellArgs to look like this:`shellArgs: ['~'],`
 13. Save and close the file. Close Hyper term and re-open.
 14. Type `ls`. You should not see an error.
 

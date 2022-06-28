@@ -51,7 +51,7 @@ Run in the terminal: `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.3
 For PC, you have to first install zsh. Run in the terminal:
 `sudo apt install zsh` 
 
-For both, run in the terminal: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+For Mac, run in the terminal: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
 #### For Windows Users Only
 
