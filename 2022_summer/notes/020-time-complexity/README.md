@@ -1,4 +1,4 @@
-[Table of Contents](/README.md)
+[Table of Contents](../README.md)
 
 # Day 020 - Time Complexity and Big O Notation
 
