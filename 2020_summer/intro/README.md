@@ -1,4 +1,4 @@
-[Table of Contents](../README.md)
+[Table of Contents](../../README.md)
 
 # Welcome to The Iron Yard Frontend Engineering Course in Austin
 
