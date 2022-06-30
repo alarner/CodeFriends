@@ -17,3 +17,4 @@ Date: `June 25, 2020`
 * [JavaScript Variables and Types Worksheet](/assignments/js-variables-and-types-worksheet)
 * Read [JavaScript Conditional Logic](/units/javascript-conditional-logic)
 * Read [JavaScript Variables](/units/javascript-variables)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)

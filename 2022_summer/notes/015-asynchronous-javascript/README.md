@@ -17,6 +17,7 @@ Date: `September 25, 2020`
 ## Assignments
 
 - Try [pair programming](https://martinfowler.com/articles/on-pair-programming.html#DriverAndNavigator) on the tasks you've been assigned in the "Ready" list of the [RCV Project](https://trello.com/b/MNt2GNBJ/ranked-choice-voting-backlog)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
 
 ## Resources
 

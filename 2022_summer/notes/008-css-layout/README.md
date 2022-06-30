@@ -18,6 +18,7 @@ Date: `August 6, 2020`
 ## Assignments
 
 - [Mobile Layout 2](/assignments/mobile-layout-2)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
 
 ## Resources
 

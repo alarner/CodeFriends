@@ -16,6 +16,7 @@ Date: `October 29, 2020`
 ## Assignments
 
 - [In-flight Entertainment](https://www.interviewcake.com/question/javascript/inflight-entertainment)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
 
 ## Resources
 

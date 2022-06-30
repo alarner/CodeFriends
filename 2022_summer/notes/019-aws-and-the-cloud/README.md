@@ -18,6 +18,7 @@ Date: `October 22, 2020`
 ## Assignments
 
 - [Array Merge function](/assignments/js-array-merge)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
 
 ## Resources
 

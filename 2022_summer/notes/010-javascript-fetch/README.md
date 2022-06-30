@@ -19,6 +19,7 @@ Date: `August 20, 2020`
 ## Assignments
 
 - [Chat Client](/assignments/js-chat-client)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
 
 ## Resources
 

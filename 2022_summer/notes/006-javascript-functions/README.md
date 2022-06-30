@@ -16,3 +16,4 @@ Date: `July 23, 2020`
 ## Assignments
 
 - [JavaScript Functions Worksheet](/assignments/js-functions-worksheet)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)

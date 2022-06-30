@@ -18,3 +18,4 @@ Date: `September 17, 2020`
 ## Assignments
 
 - [RCV Project](https://trello.com/b/MNt2GNBJ/ranked-choice-voting-backlog)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)

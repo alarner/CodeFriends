@@ -22,3 +22,4 @@ Date: `July 2, 2020`
 * [Buzzfeed Quiz](/assignments/js-buzzfeed)
 * [Choose Your Own Adventure](/assignments/js-choose-your-own-adventure)
 * [JavaScript Quiz](/assignments/js-quiz)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)

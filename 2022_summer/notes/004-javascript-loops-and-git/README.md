@@ -17,6 +17,7 @@ Date: `July 9, 2020`
 
 ## Assignments
 * [JavaScript loops worksheet](/assignments/js-loops-worksheet)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
 
 ## Resources
 * [git guide](https://rogerdudler.github.io/git-guide/)

@@ -19,3 +19,4 @@ Date: `July 30, 2020`
 ## Assignments
 
 - [Mobile layout](/assignments/mobile-layout)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
