@@ -20,9 +20,10 @@ Date: `June 30, 2022`
 * [Paths](/units/paths/README.md)
 * [Command Line](/units/command-line/README.md)
 	- `open`, `pwd`, `ls`, `cd`, `mkdir`, `cp`, `mv`, tab completion, command history, `tree`, `code`
+	- How to break out of a command when you get stuck
 * Bash Scripts
 	- `chmod`
-* How to break out of a command when you get stuck
+	- command line arguments
 
 ## Notes
 <!--* [Video](https://youtu.be/qtyICA4uyj0)-->
@@ -30,6 +31,7 @@ Date: `June 30, 2022`
 
 ## Assignments
 * [Command Line Wizard](../../assignments/command-line-wizard)
+* [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
 
 ## Resources
 * [Unix/Linux Command Reference](http://www.cheat-sheets.org/saved-copy/fwunixref.pdf)
