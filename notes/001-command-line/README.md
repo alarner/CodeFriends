@@ -33,3 +33,4 @@ Date: `June 30, 2022`
 
 ## Resources
 * [Unix/Linux Command Reference](http://www.cheat-sheets.org/saved-copy/fwunixref.pdf)
+* [How to Use Command Line Arguments in a Bash Script](https://www.baeldung.com/linux/use-command-line-arguments-in-bash-script)
