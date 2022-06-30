@@ -19,7 +19,7 @@ Date: `June 30, 2022`
 	
 * [Paths](/units/paths/README.md)
 * [Command Line](/units/command-line/README.md)
-	- `open`, `pwd`, `ls`, `cd`, `mkdir`, `cp`, `mv`, tab completion, command history, `tree`, `code`
+	- `open`, `pwd`, `ls`, `cd`, `mkdir`, `cp`, `mv`, `~`, tab completion, command history, `tree`, `code`
 	- How to break out of a command when you get stuck
 * Bash Scripts
 	- `chmod`
