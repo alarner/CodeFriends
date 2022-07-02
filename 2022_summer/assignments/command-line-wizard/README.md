@@ -8,7 +8,7 @@ Your goal is to complete all of the following tasks by **only using the command 
 2. Inside of the newly created `codefriends` directory create a new directory called `001-command-line`.
 3. Inside of `001-command-line` create a new file called `notes.md` and a new directory called `projects`.
 4. Using the command line open `notes.md` in your code editor. Write down at least three things you learned in class and save the file.
-5. Go back to your the `codefriends` directory and run the `tree` command. The output should look like this:
+5. Go back to your `codefriends` directory and run the `tree` command. If you do not have the tree command, you can type `brew install tree` on Mac or `sudo apt install tree` on Windows to get it. The output should look like this:
     ```
     ~/codefriends: tree
     .
