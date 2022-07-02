@@ -12,14 +12,6 @@ On our Macs, we interact with the command line via an application called the **T
 
 I like to use an application called **iTerm 2** instead of Terminal because it adds some nice features in addition to everything that the Terminal offers. You're welcome to use either one. To get iTerm 2, follow [this link](http://iterm2.com/) and download it.
 
-After opening up the Terminal you should see a screen like this:
-
-![Terminal Window](terminal-window.png)
-
-At this point I'd recommend right clicking on the Terminal icon in your dock and selecting `Options` > `Keep in Dock` because you will be using it very often.
-
-![Save to Dock](save-to-dock.png)
-
 While in the terminal app we can only type. There is no graphical interface. We do everything we need to do by typing. When you get good at this it can be very quick. Each command is executed as soon as you press enter.
 
 ### Commands
@@ -44,9 +36,6 @@ To delete a file we use the `rm` (for remove) command followed by the root relat
 
 ##### nano
 The `nano` command will open up a simple command line based text editor. There are several other command line based text editors like `vim` and `emacs`, but `nano` is the simplest. It's great for making simple changes to text files from the command line.
-
-##### open
-The `open` command will open up a file in whatever its default application is. For example, `open hello.txt` will open the `hello.txt` file in whatever you have set as your default editor for text files.
 
 ### Tips and Tricks
 
