@@ -28,7 +28,16 @@ Notice the directory structure that you have created inside of `codefriends`. Ea
 
 > Not required but a good challenge if you have extra time
 
-[Read this article on PATH variables](https://koenwoortman.com/zsh-add-directory-to-path/) and see if you can figure out how to improve your terminal setup so that you can run `newday.sh` from anywhere.
+You may have noticed that you need to be inside of the directory where `newday.sh` exists in order to run it. It would be nice if we could run that command from anywhere. The `PATH` variable is a special variable on the command line that specifies where to find executable files.
+
+1. Run `echo $PATH` to see what your current `PATH` variable looks like. You should see a series of command line paths separated by a `:`.
+2. Run `pwd` in the directory where your `newday.sh` file is to get the path to that directory. Save the path that is displayed somewhere. We will need it in a few steps.
+3. Run `code ~/.zshrc` to open up a special configuration file that allows you to update the `PATH` variable.
+4. At the end of the file add `export PATH=$PATH:`. Then add the path that you found with the `pwd` command in step 2 to the end of that new line. You should end up with something like `export PATH=$PATH:/Users/username/codefriends/001-command-line/projects/command-line-wizard`
+
+> If you want to see another example of the power of the command line, the following command will do all of those steps you just did in one line: `echo "export PATH=\$PATH:$(pwd)" >> ~/.zshrc`. If you're curious you can try to figure out what this command means.
+
+[Read this article on PATH variables](https://janelbrandon.medium.com/understanding-the-path-variable-6eae0936e976) to learn more about what they are and how they work.
 
 ## Bonus #2
 
