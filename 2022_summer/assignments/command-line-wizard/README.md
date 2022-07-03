@@ -28,7 +28,7 @@ Notice the directory structure that you have created inside of `codefriends`. Ea
 
 > Not required but a good challenge if you have extra time
 
-[Read this article on PATH variables](http://www.linfo.org/path_env_var.html) and see if you can figure out how to improve your terminal setup so that you can run `newday.sh` from anywhere.
+[Read this article on PATH variables](https://koenwoortman.com/zsh-add-directory-to-path/) and see if you can figure out how to improve your terminal setup so that you can run `newday.sh` from anywhere.
 
 ## Bonus #2
 
