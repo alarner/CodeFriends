@@ -7,8 +7,10 @@ Date: `July 7, 2022`
 ## Goals
 
 - Review the command line
+- Go through visual "baking a cake" example
+- Learn how to init, status, add, and commit (students follow along)
 - Learn how to create a github repository (students follow along)
-- Learn how to add, commit and push to github (students follow along)
+- Learn how to push to github repository
 
 ## Notes
 
