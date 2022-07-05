@@ -2,7 +2,7 @@
 
 - [Day 000 - Setting up your Development Environment](./notes/000-development-environment)
 - [Day 001 - Course Introduction & Command Line](./notes/001-command-line)
-- [Day 002 - Git & GitHub Introduction]<!--(./notes/001-command-line)-->
+- [Day 002 - Git & GitHub Introduction](./notes/002-git-introduction)
 - [Day 003 - JavaScript Introduction]<!--(./notes/002-javascript-introduction)-->
 - [Day 004 - JavaScript If Statements]<!--(./notes/003-javascript-if-statements)-->
 - [Day 005 - JavaScript Loops]<!--(./notes/004-javascript-loops-and-git)-->

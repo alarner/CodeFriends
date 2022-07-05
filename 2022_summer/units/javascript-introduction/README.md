@@ -12,7 +12,7 @@ JavaScript is a programming language, as are Ruby, PHP, Python, C, Java, etc. Ea
 
 ## Introduction to JavaScript Programming
 
-I was recently in Puebla, Mexico visiting a friend. We were out at one of the most well known Taquería's and I was starving after the long plane flight there. As I was ordering I ran into a problem. I couldn't speak Spanish if my life depended on it and the server didn't speak English. Luckily my friend is fluent in both Spanish and English, so she acted as the interpreter between myself and the server.
+Years ago I was in Puebla, Mexico visiting a friend. We were out at one of the most well known Taquería's and I was starving after the long plane flight there. As I was ordering I ran into a problem. I couldn't speak Spanish if my life depended on it and the server didn't speak English. Luckily my friend is fluent in both Spanish and English, so she acted as the interpreter between myself and the server.
 
 Why do I bring this up? Because every day when we write JavaScript code we are interacting with an interpreter. You see, the computer doesn't understand JavaScript and we don't understand the 1's and 0's that the computer does. Lucky for us, there is an interpreter that will translate the JavaScript that we write into a language that the computer can understand. and vice versa. It might look something like this...
 
