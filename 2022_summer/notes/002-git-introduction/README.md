@@ -21,6 +21,6 @@ Date: `July 7, 2022`
 
 - [GitHub Practice](../../assignments/github-practice)
 
-## Resources
+<!-- ## Resources -->
 
-- [git introduction](../../units/git-introduction)
+<!-- - [git introduction](../../units/git-introduction) -->
