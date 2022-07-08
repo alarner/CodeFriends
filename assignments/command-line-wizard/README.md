@@ -1,6 +1,6 @@
 # Command Line Wizard
 
-Your goal is to complete all of the following tasks by **only using the command line and your code editor**. At the end of the assignment you'll submit a history of all of the commands you typed into your terminal.
+Your goal is to complete all of the following tasks by **only using the command line and your code editor**. At the end of the assignment you'll submit a history of all of the commands you typed into your terminal. Yay!
 
 ## First some practice...
 
