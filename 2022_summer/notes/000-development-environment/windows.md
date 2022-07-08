@@ -56,5 +56,7 @@ sudo apt-get update
 sudo apt-get install git
 ```
 
+#### git credential manager
 
-<!-- Then run in the terminal: `git config --global credential.helper ????????` -->
+1. Download and double click to install [git credential manager](https://github.com/GitCredentialManager/git-credential-manager/releases/download/v2.0.779/gcm-win-x86-2.0.779.exe).
+2. Run int he terminal `git config --global --replace-all credential.helper "/mnt/c/Program\\ Files\\ \\(x86\\)/Git\\ Credential\\ Manager/git-credential-manager-core.exe"`
