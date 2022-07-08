@@ -20,6 +20,7 @@ Date: `July 7, 2022`
 ## Assignments
 
 - [GitHub Practice](../../assignments/github-practice)
+- [Provide Feedback for Day 002](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform)
 
 <!-- ## Resources -->
 
