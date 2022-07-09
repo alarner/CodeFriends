@@ -1,8 +1,8 @@
 [Table of Contents](../../README.md)
 
-# Day 002 - JavaScript Introduction
+# Day 003 - JavaScript Introduction
 
-Date: `June 25, 2020`
+Date: `July 14, 2022`
 
 ## Goals
 * [JavaScript Introduction](/units/javascript-introduction/README.md)
@@ -10,8 +10,8 @@ Date: `June 25, 2020`
 * Node command line scripts
 
 ## Notes
-* [Code](./code)
-* [Video](https://www.youtube.com/watch?v=6pRzMbWhsPw)
+<!-- * [Code](./code) -->
+<!-- * [Video](https://www.youtube.com/watch?v=6pRzMbWhsPw) -->
 
 ## Assignments
 * [JavaScript Variables and Types Worksheet](/assignments/js-variables-and-types-worksheet)

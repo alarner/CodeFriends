@@ -2,7 +2,7 @@
 
 # Day 005 - Review
 
-Date: `July 16, 2020`
+Date: `August 4, 2022`
 
 ## Goals
 
@@ -14,8 +14,8 @@ Date: `July 16, 2020`
 
 ## Notes
 
-- [Code](./code)
-- [Video](https://www.youtube.com/watch?v=FaUWGEv093Q)
+<!-- - [Code](./code) -->
+<!-- - [Video](https://www.youtube.com/watch?v=FaUWGEv093Q) -->
 
 ## Assignments
 
