@@ -26,7 +26,7 @@ Date: `June 30, 2022`
 	- command line arguments
 
 ## Notes
-<!--* [Video](https://youtu.be/qtyICA4uyj0)-->
+* [Video](https://www.youtube.com/watch?v=chenOBvCVdg&list=PLEe5sIaD0o5eM6aZqs3xJvMHInVq_jfqj&index=3&t=2s&ab_channel=CodeFriendsSummer2022Private)
 <!--* [Bonus Video](https://youtu.be/xJgHdH2fieA)-->
 
 ## Assignments
