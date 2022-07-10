@@ -18,7 +18,7 @@ Why do I bring this up? Because every day when we write JavaScript code we are i
 
 ![Interpreter](pictures/interpreter.jpg)
 
-We write some JavaScript code, in this case `'Hello World'` and send it off to the interpreter. The interpreter understands JavaScript and translates it to the 1's and 0's that the computer understands and sends it off. The computer, can now reply back to the interpreter, who then translates the reply and sends it back to us. This all happens in the blink of an eye.
+We write some JavaScript code, in this case `'Hello JavaScript'` and send it off to the interpreter. The interpreter understands JavaScript and translates it to the 1's and 0's that the computer understands and sends it off. The computer, can now reply back to the interpreter, who then translates the reply and sends it back to us. This all happens in the blink of an eye.
 
 In this particular case the computer just responds with the same thing that we sent it. That's just it's way of telling us that it heard us loud and clear. If we make a mistake in the code that we write, either the interpreter or the computer won't understand it and we'll get an error.
 
@@ -26,7 +26,7 @@ In this particular case the computer just responds with the same thing that we s
 
 You might wonder how you go about actually talking to the interpreter. This is actually pretty simple, espcially if you have [Google Chrome](https://www.google.com/chrome) web browser.
 
-##### Simply open up chrome and from any page click on the hamburger menu (three horizontal lines) in the upper right corner...
+##### Simply open up chrome and from any page click on the menu (three dots) in the upper right corner...
 
 ![Chrome 1](pictures/chrome1.jpg)
 
