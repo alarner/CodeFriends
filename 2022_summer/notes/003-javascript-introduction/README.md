@@ -5,6 +5,7 @@
 Date: `July 14, 2022`
 
 ## Goals
+* Which bookmarks to link
 * [JavaScript Introduction](/units/javascript-introduction/README.md)
 * [JavaScript Primitives](/units/javascript-primitives/README.md)
 * Node command line scripts
