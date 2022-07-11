@@ -5,6 +5,7 @@
 Date: `July 21, 2022`
 
 ## Goals
+* While you wait for class to start please fill out [feedback for day 003](https://docs.google.com/forms/d/e/1FAIpQLSdHs-Icpqyv4z9CHIp-5Cx9ZORM9JvsxxHao8calx3-fz10iw/viewform?usp=sf_link)
 * Review JavaScript Expressions
 * Learn about `npm`
 * [JavaScript Variables](/units/javascript-variables)

@@ -5,12 +5,12 @@
 Date: `July 7, 2022`
 
 ## Goals
-
-- Review the command line
-- Go through visual "baking a cake" example
-- Learn how to init, status, add, and commit (students follow along)
-- Learn how to create a github repository (students follow along)
-- Learn how to push to github repository
+* While you wait for class to start please fill out [feedback for day 001](https://docs.google.com/forms/d/e/1FAIpQLSdHs-Icpqyv4z9CHIp-5Cx9ZORM9JvsxxHao8calx3-fz10iw/viewform?usp=sf_link)
+* Review the command line
+* Go through visual "baking a cake" example
+* Learn how to init, status, add, and commit (students follow along)
+* Learn how to create a github repository (students follow along)
+* Learn how to push to github repository
 
 ## Notes
 
