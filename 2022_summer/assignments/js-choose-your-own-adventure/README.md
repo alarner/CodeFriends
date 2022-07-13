@@ -1,6 +1,6 @@
 ## Description
 
-Write text adventure games / interactive story.
+Write text adventure game / interactive story.
 
 ## Objectives
 
