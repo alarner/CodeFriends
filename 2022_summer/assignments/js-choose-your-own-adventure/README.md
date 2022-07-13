@@ -14,16 +14,10 @@ After completing this assignment, you should…
 
 ## Assignment
 
-Remember those "choose your own adventure" books when you were a kid? After each section you could choose for the character to do one of several things and you would be sent to a different page depending on your decision. Your task is to create your own "choose your own adventure" command line game / story. Start by asking for the name of the main character. Use `console.log` to display the background of the story to the player and `prompt-sync` to prompt the user for what they want to do next.
+Remember those "choose your own adventure" books when you were a kid? After each section you could choose one of several things for the character to do and you would be sent to a different page depending on your decision. Your task is to create your own "choose your own adventure" command line game / story. Start by asking for the name of the main character. Use `console.log` to display the background of the story to the player and `prompt-sync` to prompt the user for what they want to do next.
 
 ## Bonus 1
-* Use your knowledge of `npm` to use a package like [enquirer](https://github.com/enquirer/enquirer) rather than `prompt-sync` to jazz up your prompts. Hint: you will need to wrap your whole program with the following code to get the `await` command to work.
-
-```js
-(async () => {
-    // Your code goes here
-})()
-```
+* Use your knowledge of `npm` to use a package like [enquirer](https://github.com/enquirer/enquirer) rather than `prompt-sync` to jazz up your prompts.
 
 ## Bonus 2
 * Give your character some attributes (like strength, intelligence, agility, etc) that change based on the decisions they make and impact the outcome of the story.
