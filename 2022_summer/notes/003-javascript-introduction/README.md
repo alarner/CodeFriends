@@ -6,7 +6,10 @@ Date: `July 14, 2022`
 
 ## Goals
 * While you wait for class to start please fill out [feedback for day 002](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform)
-* Which bookmarks to link
+* How to find resources
+ * [Class curriculum](https://github.com/alarner/CodeFriends/tree/main/2022_summer)
+ * [YouTube playlist](https://youtube.com/playlist?list=PLEe5sIaD0o5eM6aZqs3xJvMHInVq_jfqj)
+* Git questions & review
 * [JavaScript Introduction](../../units/javascript-introduction/README.md)
 * [JavaScript Primitives](../../units/javascript-primitives/README.md)
 * Node command line scripts
