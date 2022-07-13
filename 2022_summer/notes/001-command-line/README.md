@@ -17,8 +17,8 @@ Date: `June 30, 2022`
 		- Programming language concepts with Javascript
 		- Web development with HTML and CSS
 	
-* [Paths](/units/paths/README.md)
-* [Command Line](/units/command-line/README.md)
+* [Paths](../../units/paths/README.md)
+* [Command Line](../../units/command-line/README.md)
 	-`pwd`, `ls`, `cd`, `mkdir`, `cp`, `mv`, `~`, tab completion, command history, `tree`, `code`
 	- How to break out of a command when you get stuck
 * Bash Scripts
