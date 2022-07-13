@@ -5,7 +5,7 @@
 Date: `July 14, 2022`
 
 ## Goals
-* While you wait for class to start please fill out [feedback for day 002](https://docs.google.com/forms/d/e/1FAIpQLSdHs-Icpqyv4z9CHIp-5Cx9ZORM9JvsxxHao8calx3-fz10iw/viewform?usp=sf_link)
+* While you wait for class to start please fill out [feedback for day 002](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform)
 * Which bookmarks to link
 * [JavaScript Introduction](../../units/javascript-introduction/README.md)
 * [JavaScript Primitives](../../units/javascript-primitives/README.md)
