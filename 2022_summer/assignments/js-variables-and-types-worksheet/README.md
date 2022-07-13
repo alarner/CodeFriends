@@ -14,7 +14,8 @@ After completing this assignment, you should…
 * get experience with NaN, undefined and null
 
 ## Assignment
-Review the code below. For each snippet of code, determine what the final expression will evaluate to (*both type and value*). Try to answer each one of these without actually running the code via node or inside of the console. After you pick your answer, you can look up the answer by running the code. Keep a list of any expressions that you don't understand to review in class.
+1. Create a file in your codefriends directory located at `003-javascript-introduction/projects/variables-types-worksheet.md`
+2. Review the code below. For each snippet of code, determine what the final expression will evaluate to (*both type and value*) and write your answer in the newly created `variables-types-worksheet.md` file. Try to answer each one of these without actually running the code via node or inside of the console. After you pick your answer, you can look up the answer by running the code. Keep a list of any expressions that you don't understand to review in class.
 
 ### Snippet #1
 
@@ -171,4 +172,4 @@ Evaluate this expression: `y`
 
 ## Bonus
 
-Download this code from [this zip file](./bonus.zip) and extract it to somewhere that you can run your `node` command. `cd` into the bonus directory and run `node index.js`. See if you can get 11 or more correct in a row ;)
+Download this code from [this zip file](../../notes/002-javascript-introduction/code/bonus.zip) and extract it to somewhere that you can run your `node` command. `cd` into the bonus directory and run `node index.js`. See if you can get 11 or more correct in a row ;)
