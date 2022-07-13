@@ -17,13 +17,7 @@ After completing this assignment, you should…
 Create a quiz for your fellow classmates to take. The quiz should ask a series of questions which, when combined, reveal something about the quiz taker. The topic can be anything you choose!
 
 ## Bonus 1
-* Use your knowledge of `npm` to use a package like [enquirer](https://github.com/enquirer/enquirer) rather than `prompt-sync` to jazz up your quiz with interactive prompts. Hint: you will need to wrap your whole program with the following code to get the `await` command to work.
-
-```js
-(async () => {
-    // Your code goes here
-})()
-```
+* Use your knowledge of `npm` to use a package like [enquirer](https://github.com/enquirer/enquirer) rather than `prompt-sync` to jazz up your quiz with interactive prompts.
 
 ## Bonus 2
 * Use [this tool](https://manytools.org/hacker-tools/convert-images-to-ascii-art/) to display some ASCII art upon completion of the quiz!
