@@ -22,13 +22,7 @@ Create a quiz for your fellow classmates to take. The quiz should ask at least 1
 * Try to time the test and inform the user how long they took to complete the test at the end.
 
 # Bonus 2
-* Use your knowledge of `npm` to use a package like [enquirer](https://github.com/enquirer/enquirer) rather than `prompt-sync` to jazz up your quiz with interactive prompts. Hint: you will need to wrap your whole program with the following code to get the `await` command to work.
-
-```js
-(async () => {
-    // Your code goes here
-})()
-```
+* Use your knowledge of `npm` to use a package like [enquirer](https://github.com/enquirer/enquirer) rather than `prompt-sync` to jazz up your quiz with interactive prompts.
 
 ## Bonus 3
 * Make your test adaptive. If a user gets a question correct, give them a harder question next time. If they get a question incorrect, give them an easier question next time instead.
