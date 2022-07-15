@@ -30,4 +30,5 @@ Date: `July 14, 2022`
   * Read [JavaScript Conditional Logic](../../units/javascript-conditional-logic). Record notes on 3 things you learned and 3 questions to `004-javascript-if-statements/notes.md`. Add and commit your notes to your git repository.
   * Read [JavaScript Variables](../../units/javascript-variables). Record notes on 3 things you learned and 3 questions to `004-javascript-if-statements/notes.md`. Add and commit your notes to your git repository.
   * Push your new commits to github.
+  * Share a link to your notes on conditional logic and variables in the discord #day-003-javascript-introduction channel
 * [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
