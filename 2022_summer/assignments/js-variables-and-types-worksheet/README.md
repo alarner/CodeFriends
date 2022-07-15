@@ -172,4 +172,4 @@ Evaluate this expression: `y`
 
 ## Bonus
 
-Download this code from [this zip file](../../notes/002-javascript-introduction/code/bonus.zip) and extract it to somewhere that you can run your `node` command. `cd` into the bonus directory and run `node index.js`. See if you can get 11 or more correct in a row ;)
+Download this code from [this zip file](./bonus.zip) and extract it to somewhere that you can run your `node` command. `cd` into the bonus directory and run `node index.js`. See if you can get 11 or more correct in a row ;)
