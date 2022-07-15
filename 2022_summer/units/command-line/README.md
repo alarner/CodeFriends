@@ -45,9 +45,6 @@ To delete a file we use the `rm` (for remove) command followed by the root relat
 ##### nano
 The `nano` command will open up a simple command line based text editor. There are several other command line based text editors like `vim` and `emacs`, but `nano` is the simplest. It's great for making simple changes to text files from the command line.
 
-##### open
-The `open` command will open up a file in whatever its default application is. For example, `open hello.txt` will open the `hello.txt` file in whatever you have set as your default editor for text files.
-
 ### Tips and Tricks
 
 ##### tab completion
