@@ -15,7 +15,7 @@ Date: `July 7, 2022`
 ## Notes
 
 <!-- - [Code](./code) -->
-<!-- - [Video](https://www.youtube.com/watch?v=SB-qEYVdvXA) -->
+- [Video](https://www.youtube.com/watch?v=6MNN7RTJgWA&list=PLEe5sIaD0o5eM6aZqs3xJvMHInVq_jfqj)
 
 ## Assignments
 
