@@ -21,7 +21,7 @@ Date: `July 14, 2022`
 
 ## Notes
 <!-- * [Code](./code) -->
-<!-- * [Video](https://www.youtube.com/watch?v=6pRzMbWhsPw) -->
+* [Video](https://www.youtube.com/watch?v=WmqiJxRBQ9k&list=PLEe5sIaD0o5eM6aZqs3xJvMHInVq_jfqj)
 
 ## Assignments
 * [JavaScript Variables and Types Worksheet](../../assignments/js-variables-and-types-worksheet)
