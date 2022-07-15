@@ -42,10 +42,6 @@ git config --global pull.ff only
 git config --global core.editor "code --wait"
 ```
 
-## Install nodejs 
-
-Run in the terminal: `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
-
 ### Install 'oh my zsh'
 
 For PC, you have to first install zsh. Run in the terminal:
@@ -87,3 +83,11 @@ sed -i 's/robbyrussell/dbla/g' ~/.zshrc
 ```
 source ~/.zshrc
 ```
+
+## Install nodejs 
+
+Run in the terminal: `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
+
+Run in the terminal: `source ~/.zshrc`
+
+Run in the terminal: `nvm install --lts`
