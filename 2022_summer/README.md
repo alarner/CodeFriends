@@ -4,7 +4,7 @@
 - [Day 001 - Course Introduction & Command Line](./notes/001-command-line)
 - [Day 002 - Git & GitHub Introduction](./notes/002-git-introduction)
 - [Day 003 - JavaScript Introduction](./notes/003-javascript-introduction)
-- [Day 004 - JavaScript If Statements]<!--(./notes/004-javascript-if-statements)-->
+- [Day 004 - JavaScript If Statements](./notes/004-javascript-if-statements)
 - [Day 005 - JavaScript Loops]<!--(./notes/005-javascript-loops-and-git)-->
 - [Day 006 - Review]<!--(./notes/006-review)-->
 - [Day 007 - JavaScript Functions]<!--(./notes/006-javascript-functions)-->

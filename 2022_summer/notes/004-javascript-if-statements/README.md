@@ -1,17 +1,18 @@
 [Table of Contents](../../README.md)
 
-# Day 003 - If Statements
+# Day 004 - If Statements
 
 Date: `July 21, 2022`
 
 ## Goals
 * While you wait for class to start please fill out [feedback for day 003](https://docs.google.com/forms/d/e/1FAIpQLSdHs-Icpqyv4z9CHIp-5Cx9ZORM9JvsxxHao8calx3-fz10iw/viewform?usp=sf_link)
 * Review JavaScript Expressions
-* Learn about `npm`
+* Learn about markdown
 * [JavaScript Variables](../../units/javascript-variables)
 	- `var` vs. `let` vs. `const`
 * [JavaScript Conditional Logic](../../units/javascript-conditional-logic)
 	- `if`, `else`
+* Learn about `npm`
 
 
 ## Notes

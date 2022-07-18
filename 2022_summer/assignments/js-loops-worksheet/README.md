@@ -1,4 +1,4 @@
-# JavaScript Variables and Types Worksheet
+# JavaScript Loops Worksheet
 
 ## Description
 Practice working with JavaScript loops.
@@ -12,10 +12,6 @@ After completing this assignment, you should…
 
 ## Assignment
 For each of the challenges below, create a node script that determines the correct answer. Add and commit those files to a new folder in your codefriends directory and push those files to GitHub.
-
-### Git practice
-
-Use git to pull one of your classmates quizzes or games from last week. Use `npm install` to install the dependencies and run it!
 
 ### Challenge #1
 
