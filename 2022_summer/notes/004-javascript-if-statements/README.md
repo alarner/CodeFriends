@@ -24,4 +24,10 @@ Date: `July 21, 2022`
   * [Buzzfeed Quiz](../../assignments/js-buzzfeed)
   * [Choose Your Own Adventure](../../assignments/js-choose-your-own-adventure)
   * [JavaScript Quiz](../../assignments/js-quiz)
+* Reading for next class
+  * Use your `newday.sh` script to create day `005-javascript-loops`
+  * Read [JavaScript Arrays](../../units/javascript-arrays). Record notes on 3 things you learned and 3 questions to `004-javascript-if-statements/notes.md`. Add and commit your notes to your git repository.
+  * Read [JavaScript Loops](../../units/javascript-loops). Record notes on 3 things you learned and 3 questions to `004-javascript-if-statements/notes.md`. Add and commit your notes to your git repository.
+  * Push your new commits to github.
+  * Share a link to your notes on loops and arrays in the discord #day-004-javascript-if statements channel
 * [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
