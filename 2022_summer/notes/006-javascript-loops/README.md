@@ -1,6 +1,6 @@
 [Table of Contents](../../README.md)
 
-# Day 004 - Javascript Loops and Git
+# Day 004 - Javascript Arrays
 
 Date: `July 28, 2022`
 
@@ -9,7 +9,6 @@ Date: `July 28, 2022`
 * Homework review
 * VS Code: `cmd` + `shift` + `L` to select all instances
 * JavaScript arrays
-* JavaScript loops
 
 ## Notes
 <!-- * [Code](./code) -->
@@ -17,7 +16,9 @@ Date: `July 28, 2022`
 
 ## Assignments
 * Use git to clone one of your classmates quizzes or games from last week. Use `npm install` to install the dependencies and run it!
-* [JavaScript loops worksheet](../../assignments/js-loops-worksheet)
+* [JavaScript grocery list](../../assignments/js-grocery-list)
 * [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
 
 ## Resources
+
+* [JavaScript Arrays](../../units/javascript-arrays/)

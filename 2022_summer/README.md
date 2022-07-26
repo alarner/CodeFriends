@@ -5,20 +5,21 @@
 - [Day 002 - Git & GitHub Introduction](./notes/002-git-introduction)
 - [Day 003 - JavaScript Introduction](./notes/003-javascript-introduction)
 - [Day 004 - JavaScript If Statements](./notes/004-javascript-if-statements)
-- [Day 005 - JavaScript Loops]<!--(./notes/005-javascript-loops)-->
-- [Day 006 - Review]<!--(./notes/006-review)-->
-- [Day 007 - JavaScript Functions]<!--(./notes/006-javascript-functions)-->
-- [Day 008 - HTML Introduction]<!--(./notes/007-html-introduction)-->
-- [Day 009 - CSS Layout]<!--(./notes/008-css-layout)-->
-- [Day 010 - JavaScript Events]<!--(./notes/009-javascript-events)-->
-- [Day 011 - JavaScript Fetch]<!--(./notes/010-javascript-fetch)-->
-- [Day 012 - Node APIs]<!--(./notes/011-node-apis)-->
-- [Day 013 - Node APIs 2]<!--(./notes/012-node-apis-2)-->
-- [Day 014 - Unit Testing]<!--(./notes/013-unit-testing)-->
-- [Day 015 - User Authentication]<!--(./notes/014-user-authentication)-->
-- [Day 016 - Asynchronous JavaScript]<!--(./notes/015-asynchronous-javascript)-->
-- [Day 017 - git merge conflicts]<!--(./notes/016-git-merge-conflicts)-->
-- [Day 018 - React Introduction]<!--(./notes/017-react-introduction)-->
-- [Day 019 - Local Storage Review]<!--(./notes/018-local-storage-review)-->
-- [Day 020 - Amazon Web Services and "The Cloud"]<!--(./notes/019-aws-and-the-cloud)-->
-- [Day 021 - Time Complexity and Big O Notation]<!--(./notes/020-time-complexity)-->
+- [Day 005 - JavaScript Arrays](./notes/005-javascript-arrays)
+- [Day 006 - JavaScript Loops]<!--(./notes/006-javascript-loops)-->
+- [Day 007 - Review]<!--(./notes/007-review)-->
+- [Day 008 - JavaScript Functions]<!--(./notes/008-javascript-functions)-->
+- [Day 009 - HTML Introduction]<!--(./notes/009-html-introduction)-->
+- [Day 010 - CSS Layout]<!--(./notes/010-css-layout)-->
+- [Day 011 - JavaScript Events]<!--(./notes/011-javascript-events)-->
+- [Day 012 - JavaScript Fetch]<!--(./notes/012-javascript-fetch)-->
+- [Day 013 - Node APIs]<!--(./notes/013-node-apis)-->
+- [Day 014 - Node APIs 2]<!--(./notes/014-node-apis-2)-->
+- [Day 015 - Unit Testing]<!--(./notes/015-unit-testing)-->
+- [Day 016 - User Authentication]<!--(./notes/016-user-authentication)-->
+- [Day 017 - Asynchronous JavaScript]<!--(./notes/017-asynchronous-javascript)-->
+- [Day 018 - git merge conflicts]<!--(./notes/018-git-merge-conflicts)-->
+- [Day 019 - React Introduction]<!--(./notes/019-react-introduction)-->
+- [Day 020 - Local Storage Review]<!--(./notes/020-local-storage-review)-->
+- [Day 021 - Amazon Web Services and "The Cloud"]<!--(./notes/021-aws-and-the-cloud)-->
+- [Day 022 - Time Complexity and Big O Notation]<!--(./notes/022-time-complexity)-->
