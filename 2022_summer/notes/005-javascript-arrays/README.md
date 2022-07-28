@@ -8,7 +8,9 @@ Date: `July 28, 2022`
 * While you wait for class to start please fill out [feedback for day 004](https://docs.google.com/forms/d/e/1FAIpQLSdHs-Icpqyv4z9CHIp-5Cx9ZORM9JvsxxHao8calx3-fz10iw/viewform?usp=sf_link)
 * Homework review
 * `git clone`
-* VS Code: `cmd` + `shift` + `L` to select all instances
+* VS Code tips:
+    * Extensions
+    * `cmd` + `shift` + `L` to select all instances
 * JavaScript arrays
     * assigning arrays
     * adding to the end of an array
