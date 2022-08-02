@@ -6,7 +6,7 @@
 - [Day 003 - JavaScript Introduction](./notes/003-javascript-introduction)
 - [Day 004 - JavaScript If Statements](./notes/004-javascript-if-statements)
 - [Day 005 - JavaScript Arrays](./notes/005-javascript-arrays)
-- [Day 006 - JavaScript Loops]<!--(./notes/006-javascript-loops)-->
+- [Day 006 - JavaScript Loops](./notes/006-javascript-loops)
 - [Day 007 - Review]<!--(./notes/007-review)-->
 - [Day 008 - JavaScript Functions]<!--(./notes/008-javascript-functions)-->
 - [Day 009 - HTML Introduction]<!--(./notes/009-html-introduction)-->
