@@ -5,7 +5,7 @@
 Date: `July 7, 2022`
 
 ## Goals
-* While you wait for class to start please fill out [feedback for day 001](https://docs.google.com/forms/d/e/1FAIpQLSdHs-Icpqyv4z9CHIp-5Cx9ZORM9JvsxxHao8calx3-fz10iw/viewform?usp=sf_link)
+* While you wait for class to start please fill out [feedback for day 001](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
 * Review the command line
 * Go through visual "baking a cake" example
 * Learn how to init, status, add, and commit (students follow along)
