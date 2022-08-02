@@ -13,7 +13,7 @@ After completing this assignment, you should…
 
 Create a game of tic-tac-toe on the command line. Use the prompt-sync module to accept coordinates from user one for where they want to place their `X` and from user two for where they want to place their `O`.
 
-> In this example the `X` is at `2,1` and they `O` is at `3,2`
+> In this example the `X` is at `2,1` and the `O` is at `3,2`
 
 ```
     1   2   3
