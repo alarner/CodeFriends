@@ -1,8 +1,8 @@
 [Table of Contents](../../README.md)
 
-# Day 005 - Review
+# Day 007 - Review
 
-Date: `August 4, 2022`
+Date: `August 11, 2022`
 
 ## Goals
 * While you wait for class to start please fill out [feedback for day 005](https://docs.google.com/forms/d/e/1FAIpQLScugCfY_PZ5JJGPyv_y-cjqCYkjxCsNlYnNV1RGEykxzhDVZg/viewform?usp=sf_link)
