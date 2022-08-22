@@ -6,9 +6,9 @@
  *
  * If the input is invalid throw an 'Invalid Input' exception.
  */
-function checkData(inputString) {
-  // your code goes here
-}
+const checkData = (inputString) => {
+    // your code goes here
+  }
 
 /*
  * PROBLEM `concatenateArrays`
@@ -17,9 +17,9 @@ function checkData(inputString) {
  *
  * If the input is invalid throw an 'Invalid Input' exception.
  */
-function concatenateArrays(a, b) {
-  // your code goes here
-}
+const concatenateArrays = (a, b) => {
+    // your code goes here
+  }
 
 /*
  * PROBLEM `fixProperNoun`
@@ -30,9 +30,9 @@ function concatenateArrays(a, b) {
  *
  * If the input is invalid throw an 'Invalid Input' exception.
  */
-function fixProperNoun(noun) {
-  // your code goes here
-}
+const fixProperNoun = (noun) => {
+    // your code goes here
+  }
 
 /*
  * PROBLEM `sortLetters`
@@ -41,9 +41,9 @@ function fixProperNoun(noun) {
  *
  * If the input is invalid throw an 'Invalid Input' exception.
  */
-function sortLetters(inputString) {
-  // your code goes here
-}
+const sortLetters = (inputString) => {
+    // your code goes here
+  }
 
 /*
  * PROBLEM `absVal`
