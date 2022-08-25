@@ -1,8 +1,8 @@
 [Table of Contents](../../README.md)
 
-# Day 008 - JavaScript Functions
+# Day 009 - JavaScript Functions 2
 
-Date: `August 18, 2022`
+Date: `August 25, 2022`
 
 ## Goals
 
