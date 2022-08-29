@@ -10,7 +10,7 @@
 - [Day 007 - Review](./notes/007-review)
 - [Day 008 - JavaScript Functions](./notes/008-javascript-functions)
 - [Day 009 - JavaScript Functions 2](./notes/009-javascript-functions-2)
-- [Day 010 - HTML Introduction]<!--(./notes/009-html-introduction)-->
+- [Day 010 - HTML and CSS Introduction](./notes/010-html-and-css-introduction)
 - [Day 011 - CSS Layout]<!--(./notes/010-css-layout)-->
 - [Day 012 - JavaScript Events]<!--(./notes/011-javascript-events)-->
 - [Day 013 - JavaScript Fetch]<!--(./notes/012-javascript-fetch)-->
